@@ -1,4 +1,4 @@
-;; operations (1000000000)
+;; operations (30000000000)
 int op::increment() asm "0x37491f2f PUSHINT";
 int op::deposit() asm "0x47d54391 PUSHINT";
 int op::withdraw() asm "0x41836980 PUSHINT";
