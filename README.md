@@ -269,10 +269,36 @@ R2 Rise P2E merges blockchain transparency with a robust in-game economy, provid
 
 ---
 
-# Contact
+# Check List & Useful Links
 
-- **Website:** Coming Soon
-- **Discord:** [Join Us](https://discord.gg/7KUrScSh5m)
-- **GitHub:** [Explore Code](https://github.com/Risep2e/risetoken)
-- **Telegram:** [Community Bot](https://t.me/P2E_R2_Rise_bot)
+Essential Links:
+
+Website: https://r2risep2e.com
+
+Twitter: https://twitter.com/r2risep2e
+
+Telegram: https://t.me/P2E_R2_Rise_bot
+
+Discord: https://discord.gg/7KUrScSh5m
+
+GitHub: https://github.com/Risep2e
+
+Pitch Deck: https://github.com/Risep2e/risetoken/edit/main/README.md
+
+Tokenomics: https://github.com/Risep2e/risetoken/edit/main/README.md
+
+
+# Tasks for Launch:
+
+Finalize tokenomics and prepare marketing materials.
+Test and deploy Telegram bot for community engagement.
+Build partnerships within the TON ecosystem.
+Conduct a security audit for smart contracts.
+Prepare for IDO with finalized documentation.
+
+# Team Contacts:
+Afanasyev Daniil Vitalyevich (Co-Founder): @R2RiseAdmin
+General Support: info@r2risep2e.comContact
+
+
 
