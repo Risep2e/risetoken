@@ -9,7 +9,7 @@ R2 Rise P2E is a decentralized gaming guild project based on the R2 Online unive
 
 ---
 
-# Project Vision
+# Project Vision Blockchain-Backed Gaming System
 
 🏰🚀🌟
 
@@ -48,14 +48,76 @@ R2 Rise P2E is a decentralized gaming guild project based on the R2 Online unive
 
 # Financial Model
 
-## Investor ROI Details
-- **Projected Returns:**
-  - Monthly: 5000 USDT (based on current farming).
-  - Annual: ~60,000 USDT.
-  - Staking Yield: 8–12% annually, providing additional income.
-- **DAO Influence:**
-  - Investors participate in governance, voting on key decisions like reinvestment and marketing.
+#### Gross Income and Allocation (100%) = **5000 USDT/month**:
 
+- **Team (65%)**:  
+  \( 5000 \times 0.65 = 3250 \, \text{USDT} \)
+
+- **Investors (20%)**:  
+  \( 5000 \times 0.20 = 1000 \, \text{USDT} \)
+
+- **Marketing and DAO (10%)**:  
+  \( 5000 \times 0.10 = 500 \, \text{USDT} \)
+
+- **Rewards (5%)**:  
+  \( 5000 \times 0.05 = 250 \, \text{USDT} \)
+
+---
+
+### Staking of the Salary Fund (65%)
+The salary fund will be staked between payouts. Assuming monthly payouts, staking income is calculated at **8–12% annually**.
+
+- **Salary Fund Available for Staking**: **3250 USDT**  
+
+**Annual Staking Income**:  
+- At 8%:  
+  \( 3250 \times 0.08 = 260 \, \text{USDT/year} \)  
+- At 12%:  
+  \( 3250 \times 0.12 = 390 \, \text{USDT/year} \)  
+
+**Monthly Staking Income for Salary Fund**:  
+- At 8%:  
+  \( 260 \div 12 = 21.67 \, \text{USDT/month} \)  
+- At 12%:  
+  \( 390 \div 12 = 32.50 \, \text{USDT/month} \)  
+
+---
+
+### Annual Investor Income
+Investors receive **20% of the net income**, which increases due to staking rewards from the **Rewards (5%)** and the **Salary Fund (65%)**.
+
+1. **Base Net Income for Investors (Excluding Staking)**:  
+   \( 60,000 \times 0.20 = 12,000 \, \text{USDT/year} \)  
+
+2. **Staking Income from Rewards (5% = 3000 USDT)**:  
+   - At 8%:  
+     \( 3000 \times 0.08 = 240 \, \text{USDT/year} \)  
+   - At 12%:  
+     \( 3000 \times 0.12 = 360 \, \text{USDT/year} \)  
+
+3. **Additional Staking Income from the Salary Fund (65%)**:  
+   Investors receive **20% of the staking income from the salary fund**:  
+   - At 8%:  
+     \( 260 \times 0.20 = 52 \, \text{USDT/year} \)  
+   - At 12%:  
+     \( 390 \times 0.20 = 78 \, \text{USDT/year} \)  
+
+---
+
+### Final Investor Income with Staking:
+- **At 8% Staking**:  
+  \( 12,000 + 240 + 52 = 12,292 \, \text{USDT/year} \)  
+- **At 12% Staking**:  
+  \( 12,000 + 360 + 78 = 12,438 \, \text{USDT/year} \)  
+
+---
+
+### Key Notes:
+1. **Quarterly Growth**:  
+   Due to compounding effects and reinvestment, investors can expect incremental growth each quarter.  
+
+2. **Volatility of Silver Rates**:  
+   Silver, a key resource in the system, is subject to price fluctuations, which can affect overall returns. Regular monitoring and risk mitigation strategies are recommended.  
 ---
 
 # Silver Economy
