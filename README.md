@@ -273,15 +273,15 @@ R2 Rise P2E merges blockchain transparency with a robust in-game economy, provid
 
 Essential Links:
 
-Website: https://r2risep2e.com
+Website: https://github.com/Risep2e/risetoken
 
-Twitter: https://twitter.com/r2risep2e
+Twitter: https://twitter.com/r2risep2e](https://x.com/RiseRevol
 
 Telegram: https://t.me/P2E_R2_Rise_bot
 
 Discord: https://discord.gg/7KUrScSh5m
 
-GitHub: https://github.com/Risep2e
+GitHub: https://github.com/Risep2e/risetoken
 
 Pitch Deck: https://github.com/Risep2e/risetoken/edit/main/README.md
 
