@@ -297,8 +297,8 @@ Conduct a security audit for smart contracts.
 Prepare for IDO with finalized documentation.
 
 # Team Contacts:
-Afanasyev Daniil Vitalyevich (Co-Founder): @R2RiseAdmin
-General Support: info@r2risep2e.comContact
+
+General Support: r2risep2e@gmail.com
 
 
 
