@@ -1,7 +1,7 @@
 import { Cell, beginCell, Address, WalletContract, beginDict, Slice } from "ton";
 
-import walletHex from "./jetton-wallet.compiled.json";
-import minterHex from "./jetton-minter.compiled.json";
+import walletHex from ".risetoken/jetton-wallet.compiled.json";
+import minterHex from ".risetoken/jetton-minter.compiled.json";
 import { Sha256 } from "@aws-crypto/sha256-js";
 import BN from "bn.js";
 
