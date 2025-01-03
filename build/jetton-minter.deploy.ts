@@ -1,7 +1,7 @@
 import { Cell, beginCell, Address, WalletContract, beginDict, Slice } from "ton";
 
 import compiledJson from '../jetton-wallet.compiled.json';
-import compiledJson from '../jetton-wallet.compiled.json';
+
 import { Sha256 } from "@aws-crypto/sha256-js";
 import BN from "bn.js";
 
