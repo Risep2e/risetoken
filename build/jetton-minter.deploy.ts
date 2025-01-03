@@ -1,11 +1,12 @@
-const walletHex = { hex: "your_wallet_hex_value" }; // Определите walletHex с соответствующим значением
 import { Cell, beginCell, Address, WalletContract, beginDict, Slice } from "ton";
 
 import compiledJson from '../jetton-wallet.compiled.json';
-const walletHex = { hex: "your_wallet_hex_value" }; // Определите walletHex с соответствующим значением
 
 import { Sha256 } from "@aws-crypto/sha256-js";
 import BN from "bn.js";
+
+// Определение walletHex
+const walletHex = { hex: "your_wallet_hex_value" }; 
 
 export const JETTON_WALLET_CODE = Cell.fromBoc(walletHex.hex)[0];
 export const JETTON_MINTER_CODE = Cell.fromBoc(minterHex.hex)[0]; // code cell from build output
