@@ -1,3 +1,4 @@
+const walletHex = { hex: "your_wallet_hex_value" }; // Определите walletHex с соответствующим значением
 import { Cell, beginCell, Address, WalletContract, beginDict, Slice } from "ton";
 
 import compiledJson from '../jetton-wallet.compiled.json';
