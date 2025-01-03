@@ -41,9 +41,8 @@ async function main() {
   let fiftVersion = "";
   try {
     fiftVersion = child_process.execSync("fift -V").toString();
-  } catch (e) {}
-  if (!fiftVersion.includes("Fift build information")) {
-    console.log("\nFATAL ERROR: 'fift' executable is not found, is it installed and in path?");
+  } catch (e) {
+    console.log(`\nFATAL ERROR: 'fift' executable is not found, is it installed and in path?`);
     process.exit(1);
   }
 
@@ -103,7 +102,7 @@ async function main() {
     try {
       buildErrors = child_process.execSync(`func -APS -o build/${contractName}.fif ${rootContract} 2>&1 1>node_modules/.tmpfunc`).toString();
     } catch (e) {
-      buildErrors = e.stdout.toString();
+      buildErrors = (e as any).stdout.toString();
     }
     if (buildErrors.length > 0) {
       console.log(" - OH NO! Compilation Errors! The compiler output was:");
